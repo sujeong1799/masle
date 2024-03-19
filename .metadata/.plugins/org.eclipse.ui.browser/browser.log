@@ -1,0 +1,40 @@
+
+2월 14, 2024 18:15:32.978 NEW SESSION
+2월 14, 2024 18:15:32.978 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 14, 2024 18:24:15.828 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 14, 2024 18:30:23.570 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 14, 2024 18:32:03.543 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+2월 14, 2024 20:26:28.03 NEW SESSION
+2월 14, 2024 20:26:28.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 14, 2024 20:37:55.195 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 14, 2024 21:16:36.398 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+2월 16, 2024 14:38:58.522 NEW SESSION
+2월 16, 2024 14:38:58.522 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+2월 16, 2024 15:43:25.525 NEW SESSION
+2월 16, 2024 15:43:25.525 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 16, 2024 15:59:46.615 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+2월 19, 2024 14:47:40.299 NEW SESSION
+2월 19, 2024 14:47:40.299 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 19, 2024 17:04:07.525 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+2월 26, 2024 18:41:34.147 NEW SESSION
+2월 26, 2024 18:41:34.147 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+2월 27, 2024 14:05:21.70 NEW SESSION
+2월 27, 2024 14:05:21.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 27, 2024 14:06:29.631 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 27, 2024 14:09:08.53 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 27, 2024 14:15:57.413 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 27, 2024 14:46:13.828 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 27, 2024 15:30:05.14 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 27, 2024 16:00:27.677 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+2월 27, 2024 16:24:14.852 NEW SESSION
+2월 27, 2024 16:24:14.852 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 27, 2024 16:25:19.657 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 27, 2024 16:26:42.796 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 27, 2024 18:13:44.388 [32256:31324:0227/181344.388:ERROR:device_event_log_impl.cc(192)] [18:13:44.385] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)

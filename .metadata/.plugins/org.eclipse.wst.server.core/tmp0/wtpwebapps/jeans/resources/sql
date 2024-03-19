@@ -1,0 +1,36 @@
+-- root 접속
+mysql -uroot -pmysql
+
+-- database 생성
+create database jeans;
+
+-- 유저생성 구문
+create user 'jeansuser'@'localhost' identified by 'mysql';
+
+-- 권한부여 구문
+grant all privileges on jeans.* to 'jeansuser'@'localhost' with grant option;
+flush privileges;
+
+-- 유저테이블
+
+create table user(
+id varchar(100) not null,
+pw varchar(100) not null,
+name varchar(100),
+email varchar(100),
+birth varchar(100),
+reg_date datetime default now(),
+primary key(id));
+
+
+-- 게시판 생성
+
+create table board(
+bno int not null auto_increment,
+title varchar(200),
+content text,
+writer varchar(100),
+reg_date datetime default now(),
+read_count int,
+isDel varchar(50) default "N",
+primary key(bno));

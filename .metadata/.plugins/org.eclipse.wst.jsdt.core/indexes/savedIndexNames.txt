@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\_spring_workspace\_masle_project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1007166882.index
+2324770240.index
+4276241135.index
+3107234330.index
+3533019160.index
